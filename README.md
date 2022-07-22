@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**emanuelRM95/emanuelRM95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Emanuel Ribeiro 🤝
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/e__manuelrm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-ribeiro-a611b9237/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelRM95&show_icons=true&theme=dracula)
+
+### Minhas tecnologias: 
+
+<div style="display: inline-block"><br/>
+ <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<div><br/>
+
+Acadêmico em análise de sistemas e entusiasta de tecnologia 🥰
